@@ -1,0 +1,6 @@
+favFood = ["pizza", "garlic bread", "eggs", "pasta", "instant noodles"]
+favFood.append("chips")
+favFood.append("peanuts")
+favFood.remove("pasta")
+
+print(favFood)
