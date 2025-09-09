@@ -20,4 +20,7 @@ grades = {
 
 print("Student 1's (Mabel) grade: ", grades["Mabel"])
 grades["Mabel"] = 90
+print("Student 1's Updated Grade: ", grades["Mabel"])
+
 grades["Stanford"] = 100
+print("Student 5's (Stanford) grade: ", grades["Stanford"])
